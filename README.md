@@ -1,7 +1,7 @@
 React Admin Dashboard 📊
 A responsive admin dashboard built with React, featuring a dashboard, table, charts, calendar, and Kanban board. ✨
 
-Created: June 2025 🌱
+Created: June 2025 
 Author: [Anshika Singh] 👤
 
 Features 🚀
